@@ -1,0 +1,5 @@
+logo background color: rgba(193,216,46,1);
+url(//d9hhrg4mnvzow.cloudfront.net/ab-bodyrobust.com/home/81f7c274-banner-green_1000000000000000000028.png)
+background: linear-gradient(#C1D82E, #fff);
+header background: rgba(43, 43, 43, 1);
+video: https://player.vimeo.com/video/405799183
